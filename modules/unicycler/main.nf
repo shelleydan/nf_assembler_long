@@ -3,7 +3,7 @@
 process unicycler {
 
         cpus 8
-        memory '16 GB'
+        memory '64 GB'
         container 'community.wave.seqera.io/library/unicycler:0.5.1--65ba988046680154'
 
         input:
